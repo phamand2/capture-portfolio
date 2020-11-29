@@ -16,5 +16,5 @@ You will also see any lint errors in the console.
 
 # Images
 ![Homepage](src/img/HomePage.png)
-![WorkPage](src/img/ourWork.png)
-![ContactPage](src/img/ContactUs.png)
+![Workpage](src/img/ourWork.png)
+![Contactpage](src/img/ContactUs.png)
